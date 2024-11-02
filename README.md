@@ -6,4 +6,4 @@ In this case, we use a csv file from this link: https://www.kaggle.com/datasets/
 
 ## Steps
     1- Creation of the graph database 
-    2- Query of that database using Cypher Query Language
+    2- Query of that database using Cypher Query Language in Python
